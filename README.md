@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/21/28/b4/2128b486dc9be8c152298d978db767b9.jpg" width="100%">
+<img src="https://i.pinimg.com/1200x/21/28/b4/2128b486dc9be8c152298d978db767b9.jpg" width="20%">
 
 # Привет, я Кирилл 👋
 
