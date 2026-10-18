@@ -16,7 +16,8 @@
 
 ### ⚡ Моя активность
 
-![Snake animation](https://githubusercontent.com)
+[![GitHub Streak](https://herokuapp.com)](https://git.io)
+
 
 
 ### 📫 Связь
