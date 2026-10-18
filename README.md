@@ -16,7 +16,7 @@
 
 ### ⚡ Моя активность
 
-[![GitHub Streak](https://herokuapp.com)](https://git.io)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XSimargl&theme=dark)](https://git.io/streak-stats)
 
 
 
