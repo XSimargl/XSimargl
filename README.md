@@ -16,9 +16,8 @@
 
 ### ⚡ Моя активность
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XSimargl&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Snake animation](https://githubusercontent.com)
+
 
 ### 📫 Связь
 <p align="left">
