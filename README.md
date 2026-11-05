@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-### ⚡ Моя активность
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XSimargl&theme=dark)](https://git.io/streak-stats)
-
 
 
 ### 📫 Связь
